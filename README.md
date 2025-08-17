@@ -41,7 +41,7 @@ Este projeto foi construído utilizando tecnologias web padrão:
 
 A aplicação está publicada e pode ser acessada online através do link abaixo:
 
-[![Acessar Aplicação na Vercel](https://img.shields.io/badge/Vercel-Acessar%20Projeto-000?style=for-the-badge&logo=vercel)](https://seu-projeto.vercel.app)
+[![Acessar Aplicação na Vercel](https://img.shields.io/badge/Vercel-Acessar%20Projeto-000?style=for-the-badge&logo=vercel)](https://challenge-amigo-secreto-alpha-amber.vercel.app/)
 
 ---
 
